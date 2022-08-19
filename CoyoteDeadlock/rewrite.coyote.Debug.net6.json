@@ -1,0 +1,6 @@
+{
+  "AssembliesPath": "bin/Debug/net6.0",
+  "Assemblies": [
+    "CoyoteDeadlock.dll",
+  ]
+}
