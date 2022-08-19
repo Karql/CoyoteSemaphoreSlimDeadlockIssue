@@ -3,7 +3,7 @@
   "isRoot": true,
   "tools": {
     "microsoft.coyote.cli": {
-      "version": "1.5.9",
+      "version": "1.4.3",
       "commands": [
         "coyote"
       ]
